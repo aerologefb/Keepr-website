@@ -14,7 +14,7 @@ Keepr schedules alerts 3 days and 1 day before each return deadline. Check that 
 
 **Why does the paywall show "Loading subscription options…"?**
 
-This usually clears within a few seconds the first time you open it. If it persists, close and re-open the paywall — Keepr will refresh the subscription offerings from RevenueCat.
+This usually clears within a few seconds the first time you open it. If it persists, close and re-open the paywall — Keepr will refresh the subscription offerings from the App Store.
 
 **Where is my data stored?**
 
@@ -34,7 +34,7 @@ Yes — Keepr is universal. It runs on iPhone, iPad, and Apple Vision Pro. iClou
 
 ## Contact
 
-For anything not covered above, email **nav-int-llc@pm.me** with:
+For anything not covered above, email **NAV-INT-LLC@pm.me** with:
 
 - Your iPhone or iPad model and iOS version
 - A brief description of what you tried, what happened, and what you expected
