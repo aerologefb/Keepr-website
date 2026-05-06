@@ -50,7 +50,7 @@ Keepr is not directed at children under 13, and we do not knowingly collect data
 
 ## Contact
 
-For questions about this privacy policy, email **navneet@pm.me**.
+For questions about this privacy policy, email **nav-int-llc@pm.me**.
 
 ## Changes
 
