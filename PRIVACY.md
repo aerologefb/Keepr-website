@@ -42,7 +42,7 @@ You can revoke any of these in iOS Settings at any time.
 - You can delete any individual purchase or all your data from within the app at any time.
 - You can disable iCloud sync at any time.
 - Deleting Keepr from your device removes all locally stored data.
-- If you'd like a copy of your data or have any other request, email **navneet@pm.me** and we'll respond within 30 days.
+- If you'd like a copy of your data or have any other request, email **nav-int-llc@pm.me** and we'll respond within 30 days.
 
 ## Children
 
