@@ -18,7 +18,7 @@ If you subscribe to Keepr Pro and enable iCloud sync, the data above syncs acros
 
 **Subscription data**
 
-When you subscribe to Keepr Pro, RevenueCat — our subscription provider — processes the transaction. RevenueCat receives an anonymous user identifier, your purchase, and your subscription status. We do not pass any personally identifying information about you. See [RevenueCat's privacy policy](https://www.revenuecat.com/privacy) for details on how they handle data.
+When you subscribe to Keepr Pro, the transaction is processed by Apple via StoreKit. We receive only the anonymous transaction identifier and entitlement status that Apple provides — we do not receive your payment details or any personally identifying information.
 
 ## What we don't do
 
@@ -42,6 +42,19 @@ You can revoke any of these in iOS Settings at any time.
 - You can delete any individual purchase or all your data from within the app at any time.
 - You can disable iCloud sync at any time.
 - Deleting Keepr from your device removes all locally stored data.
+- If you'd like a copy of your data or have any other request, email **NAV-INT-LLC@pm.me** and we'll respond within 30 days.
+
+## Children
+
+Keepr is not directed at children under 13, and we do not knowingly collect data from children under 13.
+
+## Contact
+
+For questions about this privacy policy, email **NAV-INT-LLC@pm.me**.
+
+## Changes
+
+We'll update the date at the top of this page if we change anything material. Substantive changes will be highlighted here.
 - If you'd like a copy of your data or have any other request, email **nav-int-llc@pm.me** and we'll respond within 30 days.
 
 ## Children
