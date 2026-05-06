@@ -34,7 +34,7 @@ Yes — Keepr is universal. It runs on iPhone, iPad, and Apple Vision Pro. iClou
 
 ## Contact
 
-For anything not covered above, email **navneet@pm.me** with:
+For anything not covered above, email **nav-int-llc@pm.me** with:
 
 - Your iPhone or iPad model and iOS version
 - A brief description of what you tried, what happened, and what you expected
