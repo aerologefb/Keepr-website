@@ -11,4 +11,4 @@ Keepr is an iOS app that tracks return deadlines and warranties for the things y
 
 ## Contact
 
-For support questions, email **navneet@pm.me**.
+For support questions, email **nav-int-llc@pm.me**.
