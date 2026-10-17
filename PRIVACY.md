@@ -1,6 +1,6 @@
 # Privacy Policy
 
-_Last updated: October 3, 2026_
+_Last updated: October 17, 2026_
 
 Keepr is a personal purchase tracker that helps you keep track of return windows and warranty deadlines. We've built Keepr to be private by default — your data stays on your device unless you explicitly opt into iCloud sync.
 
@@ -25,7 +25,8 @@ When you subscribe to Keepr Pro, the transaction is processed by Apple via Store
 - We don't track you, run analytics, or sell data to anyone.
 - We don't share your data with third parties (except as described above for processing your subscription).
 - We don't use third-party advertising.
-- Your receipt photos never leave your device. OCR runs entirely on-device using Apple's Vision framework.
+- Your receipt photos never leave your device. Text recognition runs entirely on-device using Apple's Vision framework.
+- On iPhones with Apple Intelligence, Keepr also asks Apple's on-device language model to pick out the store, item, total and date from the receipt's text. The model runs on your iPhone; the text isn't sent to Apple or to us.
 
 ## Permissions Keepr requests
 
@@ -40,6 +41,15 @@ You can revoke any of these in iOS Settings at any time.
 Keepr never asks for access to your photo library. "Choose from Photos" uses the iOS photo picker, which hands Keepr only the image you select.
 
 If you tap "Find … nearby" on a purchase, Keepr opens Apple Maps with that retailer's name as the search. Nothing else about the purchase is passed along.
+
+## Features that work with other apps
+
+- **Add by voice (Siri).** When you say "Add a purchase to Keepr", Siri handles your speech under Apple's privacy policy and passes Keepr only the item and store you name. Keepr saves them on your device.
+- **Share to Keepr.** A photo, PDF, text or link you share to Keepr is kept in Keepr's private storage on your device until you next open Keepr, which reads it into the form for you to check and then deletes it. Anything left unopened is deleted after two weeks.
+- **Add to Calendar.** Keepr shows Apple's own "New Event" screen, filled in with the deadline. The event is added only if you tap Add, and Keepr never gets access to your calendar.
+- **Send to family.** Keepr opens the iOS share sheet with a short note about the deadline. Nothing is sent unless you choose someone and send it.
+- **Widgets and Apple Watch.** Your upcoming deadlines (item, store and date) are copied to storage on your device that only Keepr's widgets can read, and, if you have an Apple Watch, sent from your iPhone to your watch using Apple's WatchConnectivity. They go only between your own devices, never to us.
+- **Family Sharing.** If a family member shares Keepr Pro with you, Apple tells Keepr only that your subscription is active.
 
 ## Your rights
 

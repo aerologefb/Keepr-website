@@ -10,7 +10,23 @@ Keepr needs camera access. Open iOS Settings → Keepr → Camera, and turn it o
 
 **Why aren't I getting deadline reminders?**
 
-Keepr schedules alerts 3 days and 1 day before each return deadline. Check that notifications are allowed in iOS Settings → Notifications → Keepr. The alerts are scheduled locally on your device — your iPhone needs to be powered on and unlocked for them to fire.
+By default Keepr reminds you at 9 AM three days before a return window closes, the day before, and on the last day. You can change the time and the days in Keepr → Settings → Reminder schedule. If notifications are off, Keepr's home screen shows a "Reminders are off" message with a button that takes you straight to the right place in iOS Settings. The alerts are scheduled locally on your device — your iPhone needs to be powered on for them to arrive.
+
+**How do I add a purchase by voice?**
+
+Say "Hey Siri, add a purchase to Keepr". Siri asks what you bought and where, and Keepr tells you the last day to return it. You can also use it from the Shortcuts app or the Action button.
+
+**How do I send a receipt or an order email to Keepr?**
+
+In Photos, Mail, Files or Safari, tap the Share button and choose Keepr. Next time you open Keepr, it shows the details it found for you to check and save.
+
+**Can I see my deadlines on Apple Watch?**
+
+Yes. Install Keepr on your watch from the Watch app on your iPhone, then add the "Next Return" complication to a watch face or your Smart Stack.
+
+**Which languages does Keepr support?**
+
+English, Spanish, French, German, Italian, Portuguese (Brazil), Japanese, Chinese (Simplified) and Arabic. Keepr follows your iPhone's language.
 
 **Why does the paywall show "Loading subscription options…"?**
 
