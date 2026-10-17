@@ -36,6 +36,10 @@ Yes. Install Keepr on your watch from the Watch app on your iPhone, then add the
 
 English, Spanish, French, German, Italian, Portuguese (Brazil), Japanese, Chinese (Simplified) and Arabic. Keepr follows your iPhone's language.
 
+**What's free, and what does Keepr Pro add?**
+
+Free includes up to 8 purchases, receipt scanning, reminders, the Next Return widget and Keepr on Apple Watch. Keepr Pro adds unlimited purchases, iCloud sync between your iPhone and iPad, Home Screen and Lock Screen widgets, a warranty timeline with reminders, a statistics dashboard, and Family Sharing for up to six people. To upgrade, open Settings in Keepr and tap Upgrade to Pro.
+
 **Why does the paywall show "Loading subscription options…"?**
 
 This usually clears within a few seconds the first time you open it. If it persists, close and re-open the paywall — Keepr will refresh the subscription offerings from the App Store.
