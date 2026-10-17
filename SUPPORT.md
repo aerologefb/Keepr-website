@@ -20,6 +20,14 @@ Say "Hey Siri, add a purchase to Keepr". Siri asks what you bought and where, an
 
 In Photos, Mail, Files or Safari, tap the Share button and choose Keepr. Next time you open Keepr, it shows the details it found for you to check and save.
 
+**I bought more than one. How do I track them?**
+
+When you add or edit a purchase, open More details and set Quantity. The price is for all of them. If your receipt or invoice lists a quantity, Keepr fills it in for you.
+
+**I returned some of them and kept the rest. What do I do?**
+
+Tap "I returned it" and choose how many you took back. Those move to History with their share of the price, and the rest stay on your list with the same last day to return. Picked the wrong number? Tap Undo. On a reminder for more than one, "Mark Returned…" opens Keepr so you can choose.
+
 **Can I see my deadlines on Apple Watch?**
 
 Yes. Install Keepr on your watch from the Watch app on your iPhone, then add the "Next Return" complication to a watch face or your Smart Stack.
