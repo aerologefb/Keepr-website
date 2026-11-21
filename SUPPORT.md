@@ -62,7 +62,7 @@ This usually clears within a few seconds the first time you open it. If it persi
 
 **Where is my data stored?**
 
-By default, locally on your device only. If you subscribe to Keepr Pro, you can opt into iCloud sync to keep your data in sync across your iPhone and iPad. Sync uses your private CloudKit database — Apple manages the encryption, and Keepr's developers don't have access to it.
+By default, locally on your device only. If you subscribe to Keepr Pro, you can opt into iCloud sync to keep your data in sync across your iPhone and iPad. Sync uses your private CloudKit database — Apple manages the encryption, and Keepr's developers don't have access to it. The [privacy policy](./PRIVACY.md) has the details; you can also read it in Keepr → Settings → Privacy Policy.
 
 **How do I cancel my subscription?**
 
