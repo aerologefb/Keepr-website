@@ -1,6 +1,6 @@
 # Privacy Policy
 
-_Last updated: November 7, 2026_
+_Last updated: November 22, 2026_
 
 Keepr is a personal purchase tracker that helps you keep track of return windows and warranty deadlines. We've built Keepr to be private by default — your data stays on your device unless you explicitly opt into iCloud sync.
 
@@ -8,7 +8,7 @@ Keepr is a personal purchase tracker that helps you keep track of return windows
 
 **On-device data**
 
-- Purchase records you create (product name, retailer, price, purchase date, category, return window, warranty period, notes).
+- Purchase records you create (product name, retailer, price, purchase date, category, return window, warranty period, how long the store refunds a price drop and any amount it refunded, notes).
 - Receipt images you scan with the in-app camera or choose from your photo library.
 - Return codes you add for a drop-off return. Keepr keeps the code itself, not the screenshot or photo it was read from.
 - Your reminder schedule (the time of day and how far ahead of a deadline you want to be reminded).
@@ -27,6 +27,7 @@ When you subscribe to Keepr Pro, the transaction is processed by Apple via Store
 - We don't share your data with third parties (except as described above for processing your subscription).
 - We don't use third-party advertising.
 - Receipts and return codes are read entirely on your device using Apple's Vision framework. Your photos are never sent to us.
+- Stores' return windows, holiday dates and price-drop windows are built into Keepr, so filling them in never sends anything about your purchases anywhere.
 - On iPhones with Apple Intelligence, Keepr also asks Apple's on-device language model to pick out the store, item, total and date from the receipt's text. The model runs on your iPhone; the text isn't sent to Apple or to us.
 
 ## Permissions Keepr requests
@@ -34,7 +35,7 @@ When you subscribe to Keepr Pro, the transaction is processed by Apple via Store
 | Permission | Why |
 |---|---|
 | **Camera** | Used only when you tap "Scan receipt" or "Scan barcode," or "Scan with the Camera" for a return code. Images are processed on-device. A receipt photo is saved with its purchase; for a return code, only the code is kept. |
-| **Notifications** | Used only to remind you of upcoming return deadlines, to ask after a return whether your refund has arrived, and, with Keepr Pro, to remind you of warranties that are about to end — on the schedule you choose in Settings. |
+| **Notifications** | Used only to remind you of upcoming return deadlines, to suggest checking the price before a store's price-drop refund ends, to ask after a return whether your refund has arrived, and, with Keepr Pro, to remind you of warranties that are about to end — on the schedule you choose in Settings. |
 | **iCloud** | Used only if you subscribe to Pro and turn on sync, to keep your purchase data in sync across your devices. |
 
 You can revoke any of these in iOS Settings at any time.
